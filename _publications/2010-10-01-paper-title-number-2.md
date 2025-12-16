@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-10-01
 venue: 'IEEE Transactions on Information Forensics and Security'
-paperurl: '[https://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/abstract/document/11187398)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11187398'
 citation: 'Yang X, Xiao Z, Wu X, et al. Improving Password Guessing with Isomorphism Modeling[J]. IEEE Transactions on Information Forensics and Security, 2025.'
 ---
 
